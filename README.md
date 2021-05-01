@@ -2,7 +2,7 @@
 
 Live Web:
 
-[Codepen]https://codepen.io/gnwncpta/pen/bGgPjjm
+[Codepen] (https://codepen.io/gnwncpta/pen/bGgPjjm)
 
 Tech Stack:
 
