@@ -1,1 +1,1 @@
-# dynamic-pagination
+# Dynamic Pagination
